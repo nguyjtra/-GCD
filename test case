@@ -1,0 +1,24 @@
+[Hàm bổ sung]. Bài 4. GCD
+Problem
+Submissions
+Discussions
+Cho 4 số a, b, c, d. Hãy tìm ước chung lớn nhất và bội chung nhỏ nhất của 4 số trên . Gợi ý gcd(gcd(a, b), gcd(c, d)), lcm(lcm(a, b), lcm(c, d)).
+
+Input Format
+
+4 số nguyên dương a, b, c, d
+
+Constraints
+
+1<=a,b,c,d<=100
+
+Output Format
+
+In ra UCLN và BCNN của 4 số
+
+Sample Input 0
+
+76 81 1 53
+Sample Output 0
+
+1 326268
